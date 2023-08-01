@@ -23,3 +23,7 @@ Bear in mind though that if you have any files in these folders within Waydroid,
 
 ## showBatteryPercentage.sh
 This script will show battery percentage on Ubuntu Touch 20.04. If you are running Ubuntu Touch 16.04, have a look at the following app which can be used to tweak your system (including enabling/disabling dark mode and battery percentage): https://open-store.io/app/ut-tweak-tool.sverzegnassi
+
+## install-waydroid.sh
+See: https://github.com/HelloVolla/ubuntu-touch-beta-tests/issues/132#issuecomment-1304274366
+This script is no longer relevant, because installing Waydroid on Volla 22 is now as simple as installing the following app and pressing a few buttons: https://open-store.io/app/waydroidhelper.aaronhafer
