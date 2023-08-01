@@ -4,7 +4,7 @@ Just a bunch of useful scripts for Ubuntu Touch
 In order to run a file, open Terminal in Ubuntu Touch, change the file permission with `chmod 700 [filename]` then run the file with `./[filename]`.
 I usually put these files in the `Documents/` folder for convenience.
 
-## createSymbolicLinkToWaydroid.sh`
+## createSymbolicLinkToWaydroid.sh
 This will create a symbolic link named `waydroid_home_link`, which allows root user to easily access the home folder of the Waydroid user.
 
 ## fromWaydroid.sh / toWaydroid.sh
